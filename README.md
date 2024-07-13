@@ -100,7 +100,8 @@ Coming soon!
 
 I am doing everything with my own ressources and fees are going to add up until the release of the project.  
 It would be outstanding if you were to support me by any means possible.  
-Only the following are available so far but I am thinking about Patreon, Ko-fi, Twitch and even github sponsors!  
+Any follow on any media is already gigantic!  
+If you want to left me in awe, the following are available:    
 
 ![image](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) <!-- Paypal -->
 <a href="https://paypal.me/lucasdutriez">wallet</a>
